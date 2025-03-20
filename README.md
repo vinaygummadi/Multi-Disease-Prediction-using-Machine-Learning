@@ -57,7 +57,7 @@ To get started with this project, follow these steps:
 
 1️⃣ **Clone the repository using Git:**  
 ```bash
-git clone <repository-link>
+git clone github.com/vinaygummadi/Multi-Disease-Prediction-using-Machine-Learning
 ``` 
 
 2️⃣ **Navigate into the project folder:**  
@@ -84,6 +84,6 @@ python app.py
 ⭐ **Fork this repository**, submit **pull requests**, and contribute to improving the system!  
 For any issues, feel free to create a **GitHub issue** or reach out.  
 
-🔗 **GitHub Repository:** *(Add your repository link here)*  
+🔗 **GitHub Repository:** github.com/vinaygummadi/Multi-Disease-Prediction-using-Machine-Learning 
 
 🚀 **Let's build AI-powered healthcare solutions together!** 🚀
